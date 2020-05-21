@@ -1,0 +1,12 @@
+title: Chat Wars Guide
+remote_theme: alexander-heimbuch/millidocs
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+exclude:
+  - README.md
+
+theme: jekyll-theme-midnight
